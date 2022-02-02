@@ -1,0 +1,53 @@
+.col-3{
+    border: solid 2px;
+    color:#f3f3f4;
+    font-weight: bold;
+    font-family: cursive;
+    border-radius: 5px;
+    border-color: #f3f3f4;
+    font-size: 0.75em;
+}
+body{
+    text-align: center;
+    color:#f3f3f4;
+    background-image: url('https://wallpaperaccess.com/full/2936965.jpg')
+}
+.h2{
+    font-family: cursive;
+}
+.h1{
+   font-family: Rockwell Extra Bold ;
+}
+#email{
+   border:hidden;
+   background-color: transparent;
+   font-family: cursive;
+   color:#f3f3f4;
+   color:black;
+   font-size: 0.5em;
+}
+.row{
+   font-family: cursive;
+}
+.col-8{
+   background-color: white;
+ 
+ border-radius:50px;
+}
+
+.col-4{
+   background-color: #24b7a4;
+   border-radius:50px;
+  
+}
+#subscribe{
+   margin: 100px;
+}
+
+img{
+   height: 50px;
+   width: 50px;
+}
+strong{
+ font-size: 1.5em;
+}
